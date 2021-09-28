@@ -1,0 +1,23 @@
+body {
+    background-image: url('../img/200.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gif {
+    width: 150px;
+}
+
+.gif-right {
+    margin-left: 1200px;
+    position: absolute;
+}
+
+#fruits {
+    position: absolute;
+}
+
+footer {
+    padding: 500px;
+}
+
